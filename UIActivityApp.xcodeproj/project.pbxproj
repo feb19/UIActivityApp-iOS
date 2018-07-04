@@ -12,6 +12,7 @@
 		46CFAE6720ED87C200750C52 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46CFAE6520ED87C200750C52 /* Main.storyboard */; };
 		46CFAE6920ED87C300750C52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46CFAE6820ED87C300750C52 /* Assets.xcassets */; };
 		46CFAE6C20ED87C300750C52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46CFAE6A20ED87C300750C52 /* LaunchScreen.storyboard */; };
+		46CFAE7420ED88FA00750C52 /* books-clock-clockwork-890849.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46CFAE7320ED88FA00750C52 /* books-clock-clockwork-890849.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		46CFAE6820ED87C300750C52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46CFAE6B20ED87C300750C52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		46CFAE6D20ED87C300750C52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46CFAE7320ED88FA00750C52 /* books-clock-clockwork-890849.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "books-clock-clockwork-890849.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				46CFAE6520ED87C200750C52 /* Main.storyboard */,
 				46CFAE6820ED87C300750C52 /* Assets.xcassets */,
 				46CFAE6A20ED87C300750C52 /* LaunchScreen.storyboard */,
+				46CFAE7320ED88FA00750C52 /* books-clock-clockwork-890849.jpg */,
 				46CFAE6D20ED87C300750C52 /* Info.plist */,
 			);
 			path = UIActivityApp;
@@ -124,6 +127,7 @@
 			files = (
 				46CFAE6C20ED87C300750C52 /* LaunchScreen.storyboard in Resources */,
 				46CFAE6920ED87C300750C52 /* Assets.xcassets in Resources */,
+				46CFAE7420ED88FA00750C52 /* books-clock-clockwork-890849.jpg in Resources */,
 				46CFAE6720ED87C200750C52 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
